@@ -11,4 +11,3 @@ func call_item(index: int) -> bool:
 		return false
 	return a[index].activate_item()
 
-
